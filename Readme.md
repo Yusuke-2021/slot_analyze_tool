@@ -6,6 +6,7 @@ analyze_slot_data
 
 ## 使い方
 ver1: CLI機能のみ
+
 ver2: GUI機能追加
 
 ## 環境
